@@ -1,3 +1,5 @@
+Modified to connect with posgresql
+
 SPRING BOOT, SPRING SECURITY AND THYMELEAF
 ==========================================
 
